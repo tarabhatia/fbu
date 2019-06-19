@@ -1,4 +1,4 @@
-# fbu
+FBU Week 0
 ## HelloTara
 
 ### App Description
@@ -6,7 +6,7 @@ A simple mobile application for my Week 0 assignment at FBU!
 
 ### App Walk-though
 
-<img src="http://recordit.co/p6seuKiI6o" width=200><br>
+<img src="http://g.recordit.co/p6seuKiI6o.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
